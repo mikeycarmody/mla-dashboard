@@ -1,0 +1,29 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Powranna
+Report Date: 07/01/2025
+Comparison Date: 17/12/2024
+Total Yarding: 37 (-67)
+Commentary
+"There was a very small yarding of 37 cattle at Powranna on Tuesday being the first sale for 2025. With small numbers butchers were keen to get their share and paid 300c to 350c for yearling steers and 338c to 354c for heifers while some secondary yearlings made 266c to 302c.
+
+Good quality grown steers made 340c to 380c/kg live.
+
+Market Reporter Richard Bailey"
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,280-330,Restocker,C,2,3,NQ,350.0,350.0,350,NQ,673.1,673.1,673.1,1144.5,1144.5,1144.5
+Yearling Steer,330-400,Restocker,C,2,7,NQ,266.0,350.0,317.42857142857144,NQ,521.6,673.1,611.9,957.6,1255.8,1170.0000174386162
+Yearling Steer,400+,Processor,C,3,1,NC,300.0,300.0,300,10.0,555.6,555.6,555.6,1560.0,1560.0,1560
+Yearling Steer,400+,Restocker,C,2,1,NQ,286.0,286.0,286,NQ,550.0,550.0,550.0,1172.6,1172.6,1172.5999755859375
+Yearling Heifer,280-330,Restocker,C,2,1,NQ,302.0,302.0,302,NQ,580.8,580.8,580.8,854.7,854.7,854.6599731445312
+Yearling Heifer,330-400,Restocker,C,2,1,-5,302.0,302.0,302,49.0,580.8,580.8,580.8,1057.0,1057.0,1057
+Yearling Heifer,400+,Processor,C,3,7,4,338.0,354.0,346.57142857142856,55.2,625.9,655.6,641.8,1840.8,1983.6,1939.6571568080358
+Grown Steer,500-600,Processor,C,2,1,NQ,266.0,266.0,266,NQ,511.5,511.5,511.5,1356.6,1356.6,1356.5999755859375
+Grown Steer,500-600,Processor,C,3,2,-1,370.0,380.0,375,100.3,660.7,678.6,669.6,2035.0,2166.0,2100.5
+Grown Steer,600-750,Processor,C,3,1,-1,340.0,340.0,340,58.0,607.1,607.1,607.1,2210.0,2210.0,2210
+Bulls,600+,Processor,C,2,2,NQ,210.0,228.0,219,NQ,375.0,400.0,387.5,1533.0,1641.6,1587.2999877929688

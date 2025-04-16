@@ -1,0 +1,46 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: SELX Yass
+Report Date: 19/12/2024
+Comparison Date: 
+Total Yarding: 258 (NQ)
+Commentary
+"There was only 258 plainer quality cattle for the last sale of the year. The yarding was mostly made up of young cattle returning to the paddock or feedlot, along with a few pens of cows. There was not as many buyers in attendance, selling to a variable market. 
+
+Weaner steers made from 285c to 375c, and the heifers reached 308c/kg. There was a run of mixed sex bobby calves, averaging 70kg selling for $320. Lightweight yearling steers topped at 330c, and the heifers suiting the restockers sold from 170c to 310c/kg. Heifers to feed averaged 289c/kg.
+
+A pen of prime grown heifers made 319c/kg. A limited supply of cows ranged from 170c to 260c/kg. The next sale is on 9th January.
+David Kent Market Reporter"
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,280-330,Restocker,C,2,1,-2,320.0,320.0,320,-38.0,581.8,581.8,581.8,1040.0,1040.0,1040
+Yearling Steer,330-400,Restocker,C,2,6,-12,305.0,330.0,325.8333333333333,-19.2,564.8,600.0,594.1,1067.5,1138.5,1126.6666666666667
+Yearling Steer,400+,Feeder,C,2,7,-66,310.0,312.0,310.85714285714283,-22.4,563.6,567.3,565.2,1591.2,1844.5,1735.9428013392858
+Yearling Steer,400+,Feeder,C,3,10,8,313.0,320.0,317.2,-12.8,569.1,571.4,570.5,1392.8,1616.0,1526.739990234375
+Yearling Heifer,200-280,Restocker,D,2,14,NQ,170.0,170.0,170,NQ,333.3,333.3,333.3,442.0,442.0,442
+Yearling Heifer,280-330,Restocker,C,2,6,NQ,270.0,285.0,280,NQ,500.0,527.8,518.5,877.5,897.8,891
+Yearling Heifer,280-330,Restocker,D,1,4,NQ,180.0,180.0,180,NQ,352.9,352.9,352.9,576.0,576.0,576
+Yearling Heifer,330-400,Feeder,C,2,23,-10,255.0,310.0,289.5652173913044,-9.4,472.2,574.1,536.2,854.3,1162.5,1075.0869565217392
+Yearling Heifer,330-400,Feeder,D,2,1,-8,240.0,240.0,240,-32.0,452.8,452.8,452.8,828.0,828.0,828
+Yearling Heifer,330-400,Restocker,C,2,1,NQ,285.0,285.0,285,NQ,527.8,527.8,527.8,969.0,969.0,969
+Yearling Heifer,400+,Feeder,C,2,17,2,270.0,305.0,289.70588235294116,-10.6,509.4,555.6,538.0,1228.5,1479.3,1278.7205882352941
+Vealer Steer,0-200,Restocker,C,2,6,-13,325.0,325.0,325,-65.2,613.2,613.2,613.2,520.0,520.0,520
+Vealer Steer,200-280,Restocker,C,2,21,-27,364.0,375.0,369.8095238095238,-11.0,665.5,694.4,680.7,764.4,1020.3,934.7714262462798
+Vealer Steer,200-280,Restocker,D,2,1,NQ,285.0,285.0,285,NQ,537.7,537.7,537.7,769.5,769.5,769.5
+Vealer Steer,280-330,Restocker,C,2,1,-20,319.0,319.0,319,-48.7,580.0,580.0,580.0,909.2,909.2,909.1500244140625
+Vealer Heifer,200-280,Restocker,C,2,22,-46,298.0,321.0,310.90909090909093,-5.1,555.6,598.1,584.1,690.2,795.0,773.1136363636364
+Vealer Heifer,280-330,Restocker,C,2,2,-9,308.0,308.0,308,-52.0,570.4,570.4,570.4,893.2,893.2,893.2000122070312
+Grown Steer,600-750,Processor,D,3,5,NQ,230.0,230.0,230,NQ,442.3,442.3,442.3,1391.5,1391.5,1391.5
+Grown Heifer,540+,Processor,C,3,7,-23,319.0,319.0,319,-6.1,590.7,590.7,590.7,2057.6,2057.6,2057.5500837053573
+Cows,0-400,Restocker,D,1,26,NQ,160.0,180.0,169.23076923076923,NQ,381.0,428.6,402.9,576.0,657.0,613.3846153846154
+Cows,520+,Processor,D,4,2,-82,260.0,260.0,260,-28.0,541.7,541.7,541.7,1794.0,1794.0,1794
+Cows,520+,Restocker,D,3,7,NQ,250.0,256.0,253,NQ,531.9,544.7,538.3,1351.5,1523.2,1434.3142787388392
+Cows,520+,Restocker,D,5,2,NQ,240.0,240.0,240,NQ,510.6,510.6,510.6,1788.0,1788.0,1788
+Bulls,0-450,Processor,C,2,22,NQ,130.0,165.0,152.5,NQ,236.4,294.6,272.5,390.0,637.5,515.5909090909091
+Bulls,0-450,Restocker,C,1,10,NQ,202.0,202.0,202,NQ,360.7,360.7,360.7,585.8,585.8,585.8
+Bulls,600+,Processor,B,1,2,NC,190.0,200.0,195,-75.5,316.7,333.3,325.0,1415.5,2100.0,1757.75
+Bulls,600+,Processor,C,1,3,1,155.0,200.0,170,-97.5,271.9,344.8,296.2,1472.5,1900.0,1615

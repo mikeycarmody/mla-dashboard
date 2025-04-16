@@ -1,0 +1,31 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Powranna
+Report Date: 10/09/2024
+Comparison Date: 03/09/2024
+Total Yarding: 48 (-3)
+Commentary
+"There was another very small yarding of 48 cattle at Powranna on Tuesday with quality poor throughout. Most yearlings were bought by restockers with steers making 262c to 328c while heifers made 250c to 290c.
+
+The best heavy cows topped at 320c while leaner made 168c to 266c and very lean 50c to 82c/kg liveweight.
+
+Market Reporter Richard Bailey"
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,280-330,Restocker,C,2,3,1,326.0,326.0,326,26.0,652.0,652.0,652.0,1075.8,1075.8,1075.800048828125
+Yearling Steer,330-400,Restocker,C,2,4,NQ,262.0,328.0,278.5,NQ,545.8,630.8,567.1,890.8,1279.2,987.8999633789062
+Yearling Steer,400+,Restocker,C,2,1,NQ,308.0,308.0,308,NQ,603.9,603.9,603.9,1509.2,1509.2,1509.199951171875
+Yearling Heifer,280-330,Restocker,C,2,4,NQ,250.0,262.0,259,NQ,520.8,582.2,566.9,786.0,825.0,795.75
+Yearling Heifer,330-400,Restocker,C,2,3,NQ,264.0,290.0,272.6666666666667,NQ,550.0,568.6,556.2,884.4,1160.0,976.2666829427084
+Yearling Heifer,400+,Restocker,C,2,1,NQ,252.0,252.0,252,NQ,504.0,504.0,504.0,1033.2,1033.2,1033.199951171875
+Cows,0-400,Restocker,D,1,2,-10,50.0,82.0,66,-176.2,108.7,178.3,143.5,200.0,319.8,259.8999938964844
+Cows,400-520,Processor,D,2,1,-5,220.0,220.0,220,-48.0,431.4,431.4,431.4,1034.0,1034.0,1034
+Cows,400-520,Processor,D,3,3,NQ,278.0,286.0,280.6666666666667,NQ,524.5,560.8,536.6,1251.0,1344.2,1282.066650390625
+Cows,400-520,Restocker,D,1,2,NQ,168.0,168.0,168,NQ,365.2,365.2,365.2,747.6,747.6,747.5999755859375
+Cows,400-520,Restocker,D,2,3,NQ,240.0,266.0,248.66666666666666,NQ,500.0,554.2,518.1,1170.4,1212.0,1198.1333414713542
+Cows,520+,Processor,D,3,2,-1,320.0,320.0,320,8.0,592.6,592.6,592.6,2208.0,2208.0,2208
+Cows,520+,Restocker,D,2,2,NQ,268.0,268.0,268,NQ,546.9,546.9,546.9,1487.4,1487.4,1487.4000244140625

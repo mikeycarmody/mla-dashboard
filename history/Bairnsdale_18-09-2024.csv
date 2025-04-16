@@ -1,0 +1,46 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Bairnsdale
+Report Date: 18/09/2024
+Comparison Date: 11/09/2024
+Total Yarding: 187 (-37)
+Commentary
+"There were approximately 170 export and 20 young cattle penned representing a decrease of 40 head week-on-week. The usual buying group was present but not all operating fully in a cheaper market in places. Quality was very limited with cows making up the majority of the sale. A handful of trade cattle sold to firm demand. The sprinkling of grown eased a little. Heavy beef cows eased 5c to 15c while light conditioned cows gave back 25c to 45c/kg. Heavy bulls sold firm. 
+
+Vealers sold from 307c to 388c/kg. A couple of yearling heifers suited to the trade made 340c/kg. A pen of bullocks sold for 352c/kg. Manufacturing steers sold up to 341c/kg. Most light and medium weight cows sold between 191c and 245c/kg. Heavy weight cows made mostly from 244c to 340c/kg. Heavy bulls sold from 294c to 336c after a top of 373c/kg. 
+
+Market reporter: Brendan Fletcher."
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,330-400,Restocker,C,1,3,NQ,290.0,290.0,290,NQ,557.7,557.7,557.7,1044.0,1044.0,1044
+Yearling Heifer,280-330,Restocker,D,2,1,NQ,282.0,282.0,282,NQ,564.0,564.0,564.0,916.5,916.5,916.5
+Yearling Heifer,400+,Processor,D,3,2,NQ,340.0,340.0,340,NQ,629.6,629.6,629.6,1564.0,1564.0,1564
+Yearling Heifer,400+,Processor,D,4,2,NQ,315.0,318.0,316.5,NQ,588.9,605.8,597.3,1386.0,1431.0,1408.5
+Vealer Steer,280-330,Restocker,C,2,1,NQ,307.0,307.0,307,NQ,568.5,568.5,568.5,997.8,997.8,997.75
+Vealer Heifer,330+,Processor,B,3,8,NQ,388.0,388.0,388,NQ,646.7,646.7,646.7,1474.4,1474.4,1474.4000244140625
+Vealer Heifer,330+,Processor,C,2,1,NQ,338.0,338.0,338,NQ,614.5,614.5,614.5,1149.2,1149.2,1149.199951171875
+Manufacturing Steer,540+,Processor,D,3,5,-6,341.0,341.0,341,-15.4,643.4,643.4,643.4,2046.0,2046.0,2046
+Grown Steer,600-750,Processor,C,4,4,NQ,352.0,352.0,352,NQ,640.0,640.0,640.0,2464.0,2464.0,2464
+Grown Heifer,0-540,Processor,D,3,2,-4,338.0,338.0,338,-7.0,625.9,625.9,625.9,1825.2,1825.2,1825.199951171875
+Cows,0-400,Dairy,E,1,7,NQ,130.0,136.0,133.42857142857142,NQ,342.1,357.9,351.1,476.0,487.5,480.92857142857144
+Cows,0-400,Processor,E,1,2,NQ,167.0,167.0,167,NQ,417.5,417.5,417.5,626.3,626.3,626.25
+Cows,400-520,Dairy,E,1,19,-11,191.0,224.0,205.10526315789474,-47.1,454.8,560.0,492.3,811.8,1059.3,891.7973697060033
+Cows,400-520,Processor,D,1,15,14,235.0,240.0,236.2,-28.8,526.7,559.5,547.3,1034.0,1200.0,1080.6
+Cows,400-520,Processor,E,1,7,5,210.0,245.0,235,11.0,525.0,583.3,566.7,892.5,1041.3,998.75
+Cows,520+,Dairy,D,1,19,8,244.0,251.0,247.94736842105263,-24.6,539.1,545.7,540.9,1281.0,1556.3,1445.1500308388158
+Cows,520+,Processor,D,1,5,2,262.0,262.0,262,-28.0,582.2,582.2,582.2,1441.0,1441.0,1441
+Cows,520+,Processor,D,2,20,15,270.0,323.0,314.45,-4.9,562.5,666.7,651.0,1512.0,1890.0,1792.275
+Cows,520+,Processor,D,3,20,14,316.0,329.0,325.15,4.8,640.0,669.4,654.9,1817.0,2056.3,1963.7875
+Cows,520+,Processor,D,4,21,6,330.0,340.0,332.3809523809524,-15.1,638.5,670.0,661.1,1992.0,2241.0,2132.7380952380954
+Bulls,450-600,Processor,C,2,1,-1,308.0,308.0,308,-20.0,570.4,570.4,570.4,1848.0,1848.0,1848
+Bulls,600+,Dairy,D,1,2,NQ,294.0,294.0,294,NQ,639.1,639.1,639.1,1911.0,1911.0,1911
+Bulls,600+,Dairy,D,2,1,NQ,309.0,309.0,309,NQ,594.2,594.2,594.2,2163.0,2163.0,2163
+Bulls,600+,Processor,B,2,1,NQ,373.0,373.0,373,NQ,621.7,621.7,621.7,2984.0,2984.0,2984
+Bulls,600+,Processor,C,1,1,NQ,316.0,316.0,316,NQ,585.2,585.2,585.2,2528.0,2528.0,2528
+Bulls,600+,Processor,C,2,2,-9,320.0,322.0,321,3.4,571.4,596.3,583.9,2254.0,2400.0,2327
+Bulls,600+,Processor,C,3,1,NC,336.0,336.0,336,-4.0,589.5,589.5,589.5,2688.0,2688.0,2688
+Bulls,600+,Restocker,C,2,1,NQ,334.0,334.0,334,NQ,596.4,596.4,596.4,2588.5,2588.5,2588.5

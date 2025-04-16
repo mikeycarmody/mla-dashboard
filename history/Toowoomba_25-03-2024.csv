@@ -1,0 +1,43 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Toowoomba
+Report Date: 25/03/2024
+Comparison Date: 18/03/2024
+Total Yarding: 108 (-9)
+Commentary
+"Light rain across the supply area held numbers close to the previous weeks level at 108 head. The was a large variation in quality across the yarding. A fair panel of buyers was present and in line with previous weeks a large number of onlookers were in attendance. Prices generally remain close to the last sale with only quality variations.
+
+A fair sample of light weight yearling steers returning to the paddock made to 374c to average 342c/kg. Yearling steers to feed for the domestic market made to 310c to average from 280c to 293c/kg. Light weight yearling heifers to restockers made to 278c and a few to feed made to 300c to average 275c/kg.
+
+Only a handful of cows penned with some plain condition medium weights making to162c and a very heavy Friesian cow made to 180c/kg to return $1,378/head. Bulls made to 220c/kg. The occasional light weight steer sold open auction made to $395/head. Cows and calves made to $1,440/unit.
+
+Market Reporter, Trevor Hess."
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,200-280,Restocker,C,2,24,-1,288.2,374.2,342.4500096638997,-3.2,524.0,680.4,622.6,697.4,977.9,882.9588521321615
+Yearling Steer,200-280,Restocker,D,2,5,NQ,256.2,286.2,274.20001220703125,NQ,465.8,520.4,498.5,623.9,671.2,642.8472412109375
+Yearling Steer,280-330,Feeder,C,2,5,2,280.0,280.0,280,-22.2,509.1,509.1,509.1,798.0,854.0,809.2
+Yearling Steer,280-330,Feeder,D,2,2,NQ,252.2,262.2,257.2000045776367,NQ,458.5,476.7,467.6,731.4,786.6,758.989990234375
+Yearling Steer,330-400,Feeder,C,2,6,4,278.2,310.2,293.20001220703125,-31.0,505.8,564.0,533.1,1054.7,1112.8,1079.1780598958333
+Yearling Steer,400+,Processor,D,2,2,NQ,192.2,192.2,192.1999969482422,NQ,349.5,349.5,349.5,941.8,941.8,941.780029296875
+Yearling Heifer,200-280,Restocker,C,2,4,-16,278.2,278.2,278.20001220703125,44.7,515.2,515.2,515.2,728.9,728.9,728.884033203125
+Yearling Heifer,200-280,Restocker,D,2,4,NQ,178.2,178.2,178.1999969482422,NQ,330.0,330.0,330.0,383.1,383.1,383.1300048828125
+Yearling Heifer,280-330,Feeder,C,2,9,2,260.0,300.2,274.57777913411456,2.7,481.5,555.9,508.5,754.0,975.7,885.5600789388021
+Yearling Heifer,280-330,Feeder,D,2,1,NQ,200.0,200.0,200,NQ,370.4,370.4,370.4,600.0,600.0,600
+Yearling Heifer,330-400,Feeder,D,2,1,NQ,226.2,226.2,226.1999969482422,NQ,418.9,418.9,418.9,757.8,757.8,757.77001953125
+Yearling Heifer,400+,Feeder,C,2,2,NQ,248.2,248.2,248.1999969482422,NQ,459.6,459.6,459.6,1017.6,1017.6,1017.6199951171875
+Yearling Heifer,400+,Feeder,D,2,1,NQ,206.2,206.2,206.1999969482422,NQ,381.9,381.9,381.9,948.5,948.5,948.52001953125
+Manufacturing Steer,0-540,Processor,D,2,3,NQ,150.0,150.0,150,NQ,272.7,272.7,272.7,739.5,739.5,739.5
+Manufacturing Steer,540+,Processor,D,2,5,NQ,140.0,173.2,166.55999755859375,NQ,254.5,314.9,302.8,819.0,1153.5,1086.6095703125
+Grown Steer,500-600,Feeder,C,3,3,NQ,220.0,220.0,220,NQ,400.0,400.0,400.0,1155.0,1181.4,1172.6000162760417
+Grown Steer,600-750,Processor,D,2,1,NQ,180.0,180.0,180,NQ,327.3,327.3,327.3,1197.0,1197.0,1197
+Grown Heifer,0-540,Feeder,C,2,1,NQ,220.0,220.0,220,NQ,423.1,423.1,423.1,1100.0,1100.0,1100
+Grown Heifer,540+,Processor,C,3,1,NQ,230.0,230.0,230,NQ,442.3,442.3,442.3,1265.0,1265.0,1265
+Cows,400-520,Processor,D,1,5,2,162.2,162.2,162.2,24.0,368.6,368.6,368.6,715.3,715.3,715.301953125
+Cows,520+,Dairy,D,2,1,NQ,180.2,180.2,180.1999969482422,NQ,391.7,391.7,391.7,1378.5,1378.5,1378.530029296875
+Bulls,450-600,Processor,C,2,2,NQ,212.2,220.2,216.1999969482422,NQ,385.8,400.4,393.1,1001.9,1071.6,1036.7599792480469
+Bulls,600+,Processor,C,2,3,NQ,200.0,210.0,206.66666666666666,NQ,363.6,381.8,375.8,1250.0,1358.7,1322.4666341145833

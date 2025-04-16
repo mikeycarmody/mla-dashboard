@@ -1,0 +1,41 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Mount Barker
+Report Date: 20/02/2025
+Comparison Date: 14/02/2025
+Total Yarding: 808 (+421)
+Commentary
+"Numbers were down for a total yarding of 808 mainly good quality weaner calves. Prices trended up on all steer weight categories with extra heavy steer calves most in demand. Heifers prices fluctuated with heavy weights gaining while lighter weights remained firm.
+
+Weaner steers weighing over 380kg sold from 318c to 342c while weights from 330 to 380kg made 318c to 352c and lighter weights under 330kg returned 250c to 350c quality dependent.
+
+Weaner heifers weighing over 380kg reached 268c to 280c while weights from 330kg to 380kg sold from 268c to 310c /kg. Lighter weight calves under 330kg made from 184c to 278c /kg.
+
+Tracey Kilner--NLRS"
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Vealer Steer,200-280,Restocker,B,2,14,NQ,270.0,324.0,301.2857142857143,NQ,540.0,648.0,602.6,710.1,797.0,764.8414132254464
+Vealer Steer,200-280,Restocker,C,2,35,NQ,292.0,320.0,312.62857142857143,NQ,584.0,640.0,625.3,646.4,853.2,752.3497209821429
+Vealer Steer,280-330,Feeder,B,3,64,NQ,300.0,350.0,332.53125,NQ,576.9,673.1,639.5,951.0,1141.0,1079.6412200927734
+Vealer Steer,280-330,Feeder,C,3,87,NQ,308.0,330.0,317.37931034482756,NQ,592.3,634.6,610.3,957.9,1082.4,1008.8551656788793
+Vealer Steer,280-330,Restocker,B,2,3,NQ,264.0,264.0,264,NQ,528.0,528.0,528.0,752.4,752.4,752.4000651041666
+Vealer Steer,280-330,Restocker,B,3,9,NQ,306.0,306.0,306,NQ,588.5,588.5,588.5,881.3,881.3,881.2800564236111
+Vealer Steer,280-330,Restocker,C,2,15,NQ,250.0,290.0,281.3333333333333,NQ,500.0,580.0,562.7,750.0,870.0,839.5200032552083
+Vealer Steer,280-330,Restocker,C,3,16,NQ,296.0,298.0,296.375,NQ,569.2,573.1,570.0,879.1,914.6,907.9762573242188
+Vealer Steer,330+,Feeder,B,3,63,NQ,318.0,352.0,332.53968253968253,NQ,600.0,676.9,635.8,1072.0,1345.1,1240.396499875992
+Vealer Steer,330+,Feeder,C,3,173,NQ,320.0,352.0,339.57225433526014,NQ,603.8,676.9,649.6,1059.2,1395.2,1233.2351554032696
+Vealer Heifer,200-280,Restocker,B,2,22,NQ,228.0,240.0,234.1818181818182,NQ,456.0,480.0,468.4,570.0,636.0,602.3000044389205
+Vealer Heifer,200-280,Restocker,B,3,20,NQ,200.0,250.0,239.5,NQ,384.6,480.8,460.6,560.0,645.0,614.4299926757812
+Vealer Heifer,280-330,Feeder,C,3,36,NQ,260.0,278.0,267,NQ,500.0,534.6,513.5,819.0,881.3,847.5272352430555
+Vealer Heifer,280-330,Restocker,B,3,39,NQ,245.0,268.0,255.3846153846154,NQ,471.2,515.4,491.1,695.8,836.2,741.8364007411859
+Vealer Heifer,280-330,Restocker,C,2,28,NQ,184.0,260.0,213.42857142857142,NQ,368.0,520.0,426.9,561.2,793.0,653.0057285853794
+Vealer Heifer,280-330,Restocker,C,3,35,NQ,262.0,276.0,271.3142857142857,NQ,503.8,530.8,521.8,828.0,864.6,842.9760044642857
+Vealer Heifer,330+,Feeder,B,3,70,NQ,268.0,310.0,285.0571428571429,NQ,505.7,596.2,546.9,926.1,1120.6,1023.8385672433036
+Vealer Heifer,330+,Feeder,C,3,49,NQ,274.0,284.0,278.6938775510204,NQ,517.0,546.2,531.9,970.2,1125.6,1019.0734614158164
+Bulls,0-450,Live Export,B,3,1,NQ,220.0,220.0,220,NQ,415.1,415.1,415.1,869.0,869.0,869
+Bulls,0-450,Live Export,C,2,3,NQ,220.0,220.0,220,NQ,423.1,423.1,423.1,730.4,730.4,730.4000651041666
+Bulls,0-450,Restocker,C,2,2,NQ,230.0,230.0,230,NQ,442.3,442.3,442.3,609.5,759.0,684.25

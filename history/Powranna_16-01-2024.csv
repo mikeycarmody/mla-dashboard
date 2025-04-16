@@ -1,0 +1,25 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Powranna
+Report Date: 16/01/2024
+Comparison Date: 09/01/2024
+Total Yarding: 36 (-4)
+Commentary
+"There was a small yarding of trade and export cattle at Powranna on Tuesday with a better selection of yearlings that attracted stronger competition. The best yearling steers made 220c to 248c and heifers 230c to 252c/kg.
+The few bullocks made 244c to 249c while the heavy cows sold for 192c to 198c and the seconds 156c to 172c/kg liveweight.
+
+Market Reporter Richard Bailey"
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,400+,Processor,C,3,2,NQ,220.0,248.0,234,NQ,415.1,442.9,429.0,990.0,1264.8,1127.4000244140625
+Yearling Heifer,330-400,Restocker,C,3,4,-2,230.0,238.0,232,25.7,434.0,449.1,437.7,856.8,903.9,892.1250457763672
+Yearling Heifer,400+,Processor,C,3,1,-2,252.0,252.0,252,22.0,466.7,466.7,466.7,1234.8,1234.8,1234.800048828125
+Grown Steer,750+,Processor,C,3,2,1,244.0,249.0,246.5,116.5,435.7,436.8,436.3,1878.8,1942.2,1910.5
+Cows,400-520,Processor,D,1,1,NQ,158.0,158.0,158,NQ,329.2,329.2,329.2,758.4,758.4,758.4000244140625
+Cows,400-520,Restocker,D,1,4,NQ,156.0,172.0,164,NQ,312.0,344.0,328.0,733.2,868.6,812.5999908447266
+Cows,520+,Processor,D,3,5,3,192.0,198.0,195.6,-4.4,355.6,373.6,366.4,1142.4,1154.3,1149.564013671875
+Bulls,600+,Processor,C,2,1,NQ,150.0,150.0,150,NQ,254.2,254.2,254.2,1500.0,1500.0,1500

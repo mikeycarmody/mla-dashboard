@@ -1,0 +1,94 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Muchea
+Report Date: 21/10/2024
+Comparison Date: 14/10/2024
+Total Yarding: 883 (-489)
+Commentary
+"Numbers remained conservative as the spring season continues with throughput well under 1000 head. Both local and pastoral steers and heifers showing weight and finish were a highlight today and the balance of the sale comprised of a mix of yearlings and weaners both local and pastoral and reasonable supplies of prime and feeder cows.  The buyer gallery was well attended with most regulars present as well as several seasonal restockers. Vealer steers remained firm while vealer heifers lifted 10/15c/kg. Yearling steers also gained slightly while yearling heifers were back 10c, even more when lacking weight and frame. Cows were barley equal while slaughter bulls also eased 10c.  
+ Lighter vealer steers started from 250c and with more cover up to 354c while vealer heifers ranged from 208c to 248c and in better condition sold to a top of 310c/kg. Yearling steers under 330kg were selling from 240c to 350c and heavier Yearlings sold to a top of 366c/kg. Yearling heifers under 330kg were making 138c to 242c and with more weight and finish up to 282c/kg.
+Most of the pastoral steers were showing good cover and pricing reflected this ranging from 210c to 296c while pastoral heifers in all weight ranges were back 10c selling from 108c to 236c/kg.
+Grown steers returned 202c to 300c and grown heifers starting from 158c up to a top of 328c for a pen of well-bred Gelbvieh’s.  Feeder cows from 122c to 182c, Medium cows returned 140c to 200c and heavy cows from 180c to 228c/kg.
+Shipping bulls made 150c to 252c while slaughter bulls were back 10c to return 170c to 200c/kg.
+ Terry Birkin NLIS."
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,280-330,Feeder,C,3,11,-4,200.0,350.0,318.72727272727275,-16.7,363.6,636.4,579.5,564.0,1102.5,972.5891002308239
+Yearling Steer,280-330,Feeder,D,3,2,-1,150.0,282.0,216,18.0,283.0,512.7,397.9,438.0,930.6,684.2999877929688
+Yearling Steer,280-330,Live Export,D,3,1,-49,220.0,220.0,220,-33.6,415.1,415.1,415.1,664.4,664.4,664.4000244140625
+Yearling Steer,330-400,Feeder,C,3,19,NC,320.0,366.0,357.6842105263158,36.7,581.8,665.5,650.3,1164.8,1313.9,1251.868408203125
+Yearling Steer,330-400,Feeder,D,3,9,4,282.0,282.0,282,59.6,532.1,532.1,532.1,1015.2,1015.2,1015.1999782986111
+Yearling Steer,330-400,Live Export,D,3,22,3,210.0,283.0,260.8181818181818,-9.3,396.2,534.0,492.1,718.2,1038.6,950.857255415483
+Yearling Steer,400+,Feeder,C,3,15,14,296.0,310.0,305.6,33.6,538.2,563.6,555.6,1302.4,1459.9,1357.005322265625
+Yearling Steer,400+,Feeder,D,3,22,NQ,272.0,296.0,288.45454545454544,NQ,494.5,550.9,533.4,1134.0,1364.6,1261.1927379261363
+Yearling Steer,400+,Live Export,D,3,51,NQ,200.0,280.0,240,NQ,377.4,528.3,452.8,822.0,1150.8,987.341184129902
+Yearling Steer,400+,Processor,C,3,8,NC,290.0,298.0,296,-8.0,527.3,541.8,538.2,1191.9,1659.9,1542.8700256347656
+Yearling Heifer,200-280,Restocker,C,2,1,-1,138.0,138.0,138,-16.0,276.0,276.0,276.0,383.6,383.6,383.6400146484375
+Yearling Heifer,200-280,Restocker,C,3,1,-4,140.0,140.0,140,-60.0,269.2,269.2,269.2,330.4,330.4,330.3999938964844
+Yearling Heifer,200-280,Restocker,D,2,5,-2,108.0,108.0,108,-32.0,225.0,225.0,225.0,244.1,244.1,244.0800048828125
+Yearling Heifer,200-280,Restocker,D,3,6,NQ,130.0,130.0,130,NQ,250.0,250.0,250.0,317.2,317.2,317.20001220703125
+Yearling Heifer,280-330,Feeder,C,3,7,-33,210.0,248.0,237.71428571428572,-7.6,403.8,476.9,457.1,621.6,710.4,690.4742954799107
+Yearling Heifer,280-330,Pastoral Cattle,C,2,3,NQ,105.0,105.0,105,NQ,210.0,210.0,210.0,314.0,314.0,313.95001220703125
+Yearling Heifer,280-330,Restocker,C,3,25,NQ,156.0,230.0,178.24,NQ,312.0,442.3,343.2,502.2,731.4,531.4911938476563
+Yearling Heifer,330-400,Feeder,C,3,10,1,204.0,282.0,260.2,-4.2,392.3,542.3,500.4,750.4,972.9,900.2960388183594
+Yearling Heifer,330-400,Feeder,D,3,23,20,210.0,236.0,232.6086956521739,-9.4,403.8,453.8,447.3,709.8,881.6,838.8887010657269
+Yearling Heifer,330-400,Pastoral Cattle,C,3,4,NQ,154.0,154.0,154,NQ,296.2,296.2,296.2,509.7,509.7,509.739990234375
+Yearling Heifer,400+,Feeder,C,3,1,-3,220.0,220.0,220,-20.0,423.1,423.1,423.1,910.8,910.8,910.7999877929688
+Yearling Heifer,400+,Processor,C,3,1,NQ,220.0,220.0,220,NQ,423.1,423.1,423.1,990.0,990.0,990
+Yearling Heifer,400+,Processor,D,3,19,NQ,210.0,212.0,211.47368421052633,NQ,403.8,407.7,406.7,898.9,1020.6,930.9115953947369
+Vealer Steer,0-200,Restocker,C,3,11,NQ,332.0,332.0,332,NQ,603.6,603.6,603.6,594.3,594.3,594.2800071022727
+Vealer Steer,200-280,Feeder,C,3,5,NQ,308.0,308.0,308,NQ,560.0,560.0,560.0,834.7,834.7,834.67998046875
+Vealer Steer,200-280,Restocker,C,3,43,NQ,250.0,354.0,343.95348837209303,NQ,454.5,643.6,625.4,677.5,881.5,814.7232467296511
+Vealer Heifer,0-200,Feeder,C,3,3,NQ,308.0,308.0,308,NQ,592.3,592.3,592.3,579.0,579.0,579.0399576822916
+Vealer Heifer,0-200,Processor,C,3,1,NQ,310.0,310.0,310,NQ,596.2,596.2,596.2,582.8,582.8,582.7999877929688
+Vealer Heifer,200-280,Feeder,C,3,31,21,208.0,228.0,225.93548387096774,75.9,400.0,438.5,434.5,483.4,586.1,511.5890168220766
+Vealer Heifer,200-280,Restocker,C,2,1,NQ,50.0,50.0,50,NQ,100.0,100.0,100.0,140.0,140.0,140
+Vealer Heifer,200-280,Restocker,C,3,5,1,220.0,220.0,220,-46.0,423.1,423.1,423.1,607.2,607.2,607.2
+Vealer Heifer,280-330,Feeder,C,3,14,NQ,240.0,246.0,242.14285714285714,NQ,461.5,473.1,465.7,703.2,794.6,735.8357456752232
+Vealer Heifer,280-330,Restocker,C,3,5,NQ,248.0,248.0,248,NQ,476.9,476.9,476.9,719.2,719.2,719.2
+Grown Steer,0-400,Feeder,C,3,3,NQ,240.0,240.0,240,NQ,436.4,436.4,436.4,852.0,852.0,852
+Grown Steer,0-400,Feeder,D,3,2,NQ,220.0,220.0,220,NQ,415.1,415.1,415.1,869.0,869.0,869
+Grown Steer,0-400,Live Export,D,3,4,NC,202.0,230.0,218,-42.0,381.1,434.0,411.3,795.9,869.0,845.0700073242188
+Grown Steer,400-500,Feeder,D,3,10,NQ,240.0,280.0,265.6,NQ,452.8,528.3,501.1,1135.2,1274.9,1205.5679565429687
+Grown Steer,400-500,Live Export,D,3,36,34,218.0,270.0,260.72222222222223,-11.3,411.3,509.4,491.9,913.4,1320.0,1198.4649759928386
+Grown Steer,400-500,Processor,C,3,4,NQ,300.0,300.0,300,NQ,545.5,545.5,545.5,1419.0,1419.0,1419
+Grown Steer,500-600,Live Export,D,3,8,NQ,226.0,270.0,259,NQ,426.4,509.4,488.7,1186.5,1409.4,1353.675048828125
+Grown Steer,500-600,Processor,C,3,1,NC,224.0,224.0,224,28.0,407.3,407.3,407.3,1241.0,1241.0,1240.9599609375
+Grown Steer,500-600,Processor,D,3,17,NQ,274.0,274.0,274,NQ,517.0,517.0,517.0,1490.6,1490.6,1490.5600873161766
+Grown Steer,600-750,Processor,C,3,5,4,230.0,250.0,240.8,20.8,418.2,454.5,437.8,1505.2,1680.0,1553.4559814453125
+Grown Heifer,0-540,Feeder,C,3,11,1,182.0,240.0,218.9090909090909,-51.5,350.0,461.5,421.0,717.1,981.6,885.410888671875
+Grown Heifer,0-540,Feeder,D,3,9,NQ,158.0,182.0,176,NQ,303.8,350.0,338.5,502.4,667.8,619.6177639431423
+Grown Heifer,0-540,Processor,C,3,24,21,180.0,328.0,284,51.3,346.2,630.8,546.2,840.6,1751.5,1447.3733367919922
+Grown Heifer,0-540,Restocker,C,2,1,NQ,100.0,100.0,100,NQ,208.3,208.3,208.3,324.0,324.0,324
+Grown Heifer,0-540,Restocker,C,3,1,NQ,106.0,106.0,106,NQ,212.0,212.0,212.0,345.6,345.6,345.55999755859375
+Cows,0-400,Feeder,D,1,1,NQ,100.0,100.0,100,NQ,217.4,217.4,217.4,380.0,380.0,380
+Cows,0-400,Feeder,D,2,14,NQ,100.0,154.0,128.28571428571428,NQ,208.3,320.8,267.3,316.8,580.5,450.9314270019531
+Cows,0-400,Feeder,D,3,10,NQ,174.0,182.0,177.2,NQ,348.0,364.0,354.4,661.2,726.2,687.1920166015625
+Cows,0-400,Processor,D,2,7,4,138.0,156.0,150,72.7,287.5,325.0,312.5,483.0,606.8,544.097150530134
+Cows,0-400,Processor,D,3,9,NQ,140.0,178.0,152.66666666666666,NQ,291.7,370.8,318.1,466.2,680.0,547.4089084201389
+Cows,0-400,Restocker,D,1,2,NQ,50.0,50.0,50,NQ,108.7,108.7,108.7,119.0,159.0,139
+Cows,0-400,Restocker,D,2,10,NQ,122.0,150.0,141.2,NQ,254.2,312.5,296.5,402.6,546.0,510.85999755859376
+Cows,400-520,Feeder,D,2,1,NQ,148.0,148.0,148,NQ,308.3,308.3,308.3,621.6,621.6,621.5999755859375
+Cows,400-520,Feeder,D,3,9,6,170.0,200.0,182.44444444444446,32.4,354.2,400.0,373.1,681.7,810.0,766.584459092882
+Cows,400-520,Processor,D,2,2,-2,150.0,158.0,154,14.0,312.5,329.2,320.8,633.0,679.4,656.2000122070312
+Cows,400-520,Processor,D,3,36,NQ,140.0,198.0,180.05555555555554,NQ,291.7,396.0,361.6,568.4,978.1,834.8422241210938
+Cows,400-520,Restocker,D,2,6,NQ,184.0,184.0,184,NQ,383.3,383.3,383.3,754.4,754.4,754.4000651041666
+Cows,520+,Feeder,D,3,1,NQ,188.0,188.0,188,NQ,376.0,376.0,376.0,1116.7,1116.7,1116.719970703125
+Cows,520+,Processor,D,3,43,19,180.0,228.0,212.93023255813952,1.4,360.0,456.0,425.9,995.6,1732.8,1305.6427995548693
+Bulls,0-450,Live Export,C,3,57,44,170.0,252.0,224.3859649122807,-3.9,309.1,458.2,408.0,435.6,941.9,672.7901713053385
+Bulls,0-450,Live Export,D,3,40,8,150.0,238.0,192.45,-23.9,283.0,449.1,363.1,287.3,946.2,550.8574905395508
+Bulls,0-450,Processor,C,3,6,NQ,150.0,150.0,150,NQ,272.7,272.7,272.7,516.0,516.0,516
+Bulls,0-450,Processor,D,3,2,NQ,194.0,194.0,194,NQ,366.0,366.0,366.0,754.7,754.7,754.6599731445312
+Bulls,0-450,Restocker,C,3,1,NQ,252.0,252.0,252,NQ,458.2,458.2,458.2,519.1,519.1,519.1199951171875
+Bulls,0-450,Restocker,D,3,1,NQ,202.0,202.0,202,NQ,381.1,381.1,381.1,864.6,864.6,864.5599975585938
+Bulls,450-600,Live Export,C,3,10,-21,204.0,210.0,209.2,-16.2,370.9,381.8,380.4,1081.2,1167.6,1124.9259399414063
+Bulls,450-600,Live Export,D,3,3,-1,210.0,224.0,218,-3.5,396.2,422.6,411.3,1104.4,1241.0,1189.1866455078125
+Bulls,450-600,Processor,D,2,2,NQ,140.0,160.0,150,NQ,269.2,301.9,285.6,823.2,880.0,851.6000061035156
+Bulls,450-600,Processor,D,3,2,-8,170.0,180.0,175,-28.8,320.8,339.6,330.2,931.6,1029.6,980.5999755859375
+Bulls,600+,Live Export,D,3,2,NQ,200.0,200.0,200,NQ,377.4,377.4,377.4,1202.0,1202.0,1202
+Bulls,600+,Processor,C,3,18,11,184.0,218.0,209.66666666666666,3.5,334.5,396.4,381.2,1240.2,2152.0,1654.2466701931423
+Bulls,600+,Processor,D,3,3,-2,188.0,200.0,193.33333333333334,-7.3,354.7,377.4,364.8,1146.8,1268.0,1203.0133463541667

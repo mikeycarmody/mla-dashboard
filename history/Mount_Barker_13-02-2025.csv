@@ -1,0 +1,46 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Mount Barker
+Report Date: 13/02/2025
+Comparison Date: 
+Total Yarding: 1032 (NQ)
+Commentary
+"Numbers were down for a total yarding of 1032 mixed quality weaner calves. Steer calves dominated the numbers with extra heavy weights easing while the lighter weights held firm to 5c up. Extra heavy weight heifer calves gained again with demand .The heavy weights were firm and medium weights gained on quality while light weight heifers eased 5c/kg.
+
+Weaner steers weighing over 380kg sold from 280c to 338c while weights from 330 to 380kg made 280c to 348c and lighter weights under 330kg returned 278c to 344c quality dependent.
+
+Weaner heifers weighing over 380kg reached 280c to 286c while weights from 330kg to 380kg sold from 250c to 282c /kg. Lighter weight calves under 330kg made from 140c to 278c /kg.
+
+Tracey Kilner--NLRS"
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Vealer Steer,200-280,Restocker,B,2,36,NQ,200.0,298.0,279.6666666666667,NQ,400.0,596.0,559.3,518.0,787.9,679.5549926757812
+Vealer Steer,200-280,Restocker,B,3,6,NQ,316.0,316.0,316,NQ,607.7,607.7,607.7,736.3,736.3,736.280029296875
+Vealer Steer,200-280,Restocker,C,2,33,NQ,250.0,306.0,270.54545454545456,NQ,500.0,612.0,541.1,675.0,758.8,703.856963186553
+Vealer Steer,200-280,Restocker,C,3,12,NQ,310.0,310.0,310,NQ,596.2,596.2,596.2,840.1,840.1,840.0999348958334
+Vealer Steer,280-330,Feeder,B,3,56,NQ,278.0,338.0,312.9642857142857,NQ,534.6,650.0,601.9,914.6,1115.4,1016.996076311384
+Vealer Steer,280-330,Feeder,C,2,24,NQ,296.0,300.0,298,NQ,592.0,600.0,596.0,954.0,967.9,960.9600016276041
+Vealer Steer,280-330,Feeder,C,3,59,NQ,310.0,344.0,328.4406779661017,NQ,596.2,661.5,629.8,956.8,1114.6,1030.0233878442796
+Vealer Steer,280-330,Restocker,B,2,18,NQ,286.0,286.0,286,NQ,572.0,572.0,572.0,809.4,809.4,809.3799913194445
+Vealer Steer,280-330,Restocker,C,2,63,NQ,278.0,318.0,293.22222222222223,NQ,556.0,636.0,586.4,789.5,941.3,843.7489149305555
+Vealer Steer,280-330,Restocker,C,3,57,NQ,308.0,326.0,316,NQ,592.3,626.9,607.7,893.2,1066.0,973.2193239446271
+Vealer Steer,330+,Feeder,B,3,35,NQ,298.0,338.0,320.4,NQ,573.1,650.0,616.2,998.3,1162.7,1078.0399693080358
+Vealer Steer,330+,Feeder,C,3,259,NQ,280.0,348.0,327.56756756756755,NQ,528.3,669.2,628.2,959.9,1436.6,1195.761093787705
+Vealer Heifer,0-200,Restocker,B,2,1,NQ,265.0,265.0,265,NQ,530.0,530.0,530.0,477.0,477.0,477
+Vealer Heifer,0-200,Restocker,C,2,19,NQ,140.0,230.0,201.57894736842104,NQ,311.1,479.2,426.1,226.8,446.2,376.9157971833882
+Vealer Heifer,200-280,Live Export,B,2,27,NQ,220.0,232.0,225.33333333333334,NQ,440.0,464.0,450.7,560.5,647.3,600.7333532262732
+Vealer Heifer,200-280,Live Export,C,2,29,NQ,220.0,242.0,234.41379310344828,NQ,440.0,484.0,468.8,536.8,665.5,635.2310327990301
+Vealer Heifer,200-280,Restocker,B,2,5,NQ,222.0,222.0,222,NQ,444.0,444.0,444.0,530.6,530.6,530.580029296875
+Vealer Heifer,200-280,Restocker,C,2,6,NQ,150.0,150.0,150,NQ,312.5,312.5,312.5,303.0,303.0,303
+Vealer Heifer,280-330,Feeder,C,3,12,NQ,278.0,278.0,278,NQ,534.6,534.6,534.6,903.5,903.5,903.5
+Vealer Heifer,280-330,Live Export,B,2,5,NQ,236.0,236.0,236,NQ,472.0,472.0,472.0,703.3,703.3,703.280029296875
+Vealer Heifer,280-330,Restocker,C,2,46,NQ,218.0,270.0,240.43478260869566,NQ,436.0,540.0,480.9,638.7,787.5,711.0521611752717
+Vealer Heifer,280-330,Restocker,C,3,39,NQ,246.0,264.0,258.9230769230769,NQ,473.1,507.7,497.9,752.8,843.6,820.2943584735577
+Vealer Heifer,330+,Feeder,B,3,44,NQ,250.0,286.0,280,NQ,480.8,542.3,536.3,887.5,1181.2,1013.9327448064631
+Vealer Heifer,330+,Feeder,C,3,78,NQ,270.0,282.0,276.94871794871796,NQ,519.2,542.3,530.6,904.5,1319.8,1016.4348707932693
+Vealer Heifer,330+,Restocker,C,3,14,NQ,264.0,272.0,268,NQ,507.7,523.1,515.4,881.8,960.2,920.9599958147321
+Bulls,0-450,Live Export,C,3,10,9,230.0,250.0,246,46.0,442.3,480.8,473.1,529.0,655.5,620.45

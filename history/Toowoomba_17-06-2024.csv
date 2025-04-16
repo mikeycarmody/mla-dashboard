@@ -1,0 +1,36 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Not Selected
+Report Date: 
+Comparison Date: Date not set
+Please complete selections
+Commentary
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,200-280,Restocker,C,2,12,6,254.0,370.0,314.6666666666667,-53.5,470.4,685.2,582.7,634.5,869.5,777.1999918619791
+Yearling Steer,200-280,Restocker,D,2,1,-2,230.0,230.0,230,-20.0,425.9,425.9,425.9,494.5,494.5,494.5
+Yearling Steer,280-330,Feeder,C,2,8,6,254.0,338.0,309,6.8,470.4,625.9,572.2,762.0,1014.0,927
+Yearling Steer,280-330,Restocker,C,2,2,-7,280.0,290.0,285,-74.3,518.5,537.0,527.8,798.0,913.5,855.75
+Yearling Steer,330-400,Feeder,C,2,6,2,298.0,350.0,332.6666666666667,14.5,551.9,648.1,616.0,998.3,1207.5,1137.7666625976562
+Yearling Steer,330-400,Restocker,C,2,1,NQ,298.0,298.0,298,NQ,551.9,551.9,551.9,998.3,998.3,998.2999877929688
+Yearling Steer,400+,Feeder,C,2,4,1,246.0,254.0,252,3.8,455.6,470.4,466.7,1155.7,1193.1,1165.0499572753906
+Yearling Steer,400+,Feeder,D,2,5,-1,172.0,172.0,172,-46.2,318.5,318.5,318.5,713.8,713.8,713.8
+Yearling Heifer,0-200,Processor,D,2,9,NQ,204.0,212.0,210.22222222222223,NQ,377.8,392.6,389.3,316.2,413.4,370.59998914930554
+Yearling Heifer,0-200,Restocker,C,2,2,1,200.0,216.0,208,1.8,370.4,400.0,385.2,390.0,421.2,405.6000061035156
+Yearling Heifer,200-280,Restocker,C,2,21,3,196.0,316.0,255.38095238095238,6.4,363.0,585.2,472.9,413.6,774.2,613.9576328822544
+Yearling Heifer,280-330,Feeder,C,2,2,-1,242.0,242.0,242,-32.2,448.1,448.1,448.1,726.0,726.0,726
+Yearling Heifer,330-400,Feeder,C,2,5,-11,248.0,282.0,268.4,32.7,459.3,522.2,497.0,830.8,944.7,899.1400146484375
+Yearling Heifer,330-400,Processor,C,3,2,NQ,244.0,244.0,244,NQ,451.9,451.9,451.9,817.4,817.4,817.4000244140625
+Yearling Heifer,400+,Feeder,C,2,1,-1,210.0,210.0,210,-58.2,388.9,388.9,388.9,1018.5,1018.5,1018.5
+Grown Heifer,0-540,Processor,D,2,2,-2,150.0,150.0,150,8.8,277.8,277.8,277.8,577.5,577.5,577.5
+Cows,0-400,Dairy,D,2,1,NQ,70.0,70.0,70,NQ,145.8,145.8,145.8,269.5,269.5,269.5
+Cows,0-400,Processor,D,2,1,NQ,80.0,80.0,80,NQ,166.7,166.7,166.7,308.0,308.0,308
+Cows,520+,Processor,D,3,2,NC,180.0,180.0,180,-12.1,360.0,360.0,360.0,999.0,999.0,999
+Bulls,0-450,Feeder,C,2,4,-2,207.0,207.0,207,-39.2,383.3,383.3,383.3,859.0,859.0,859.0499877929688
+Bulls,0-450,Restocker,C,2,1,-3,236.0,236.0,236,-2.2,437.0,437.0,437.0,708.0,708.0,708
+Bulls,450-600,Processor,C,2,1,NQ,208.0,208.0,208,NQ,385.2,385.2,385.2,1154.4,1154.4,1154.4000244140625
+Bulls,600+,Processor,C,3,2,NQ,160.0,170.0,165,NQ,296.3,314.8,305.6,1096.0,1283.5,1189.75

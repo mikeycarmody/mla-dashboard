@@ -1,0 +1,29 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Powranna
+Report Date: 27/08/2024
+Comparison Date: 20/08/2024
+Total Yarding: 74 (+24)
+Commentary
+"There was a larger yarding of 76 cattle at Powranna on Tuesday with a better lineup of yearlings and grown steers. This market was up to 30c dearer with yearling heifers making 312c to 334c while grown steers made 318c to 346c/kg.
+The cow market was also much stronger with heavy beef cows making 306c to 330c, leaner 236c to 296c and very lean 140c to 216c/ kg live.
+
+Market Reporter Richard Bailey"
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Heifer,330-400,Restocker,C,2,1,NQ,260.0,260.0,260,NQ,509.8,509.8,509.8,1014.0,1014.0,1014
+Yearling Heifer,400+,Processor,C,3,10,8,312.0,334.0,327.6,33.6,577.8,626.4,610.1,1466.4,1892.4,1651.5000122070312
+Grown Steer,400-500,Processor,C,3,1,NQ,348.0,348.0,348,NQ,621.4,621.4,621.4,1705.2,1705.2,1705.199951171875
+Grown Steer,500-600,Processor,C,3,3,NQ,340.0,346.0,344,NQ,607.1,629.1,621.8,1972.0,2006.8,1995.2000325520833
+Grown Steer,500-600,Restocker,C,3,2,NQ,318.0,318.0,318,NQ,588.9,588.9,588.9,1796.7,1796.7,1796.699951171875
+Grown Steer,600-750,Processor,C,3,1,NQ,322.0,322.0,322,NQ,575.0,575.0,575.0,2125.2,2125.2,2125.199951171875
+Cows,400-520,Processor,D,1,2,NQ,140.0,216.0,178,NQ,333.3,490.9,412.1,581.0,1101.6,841.2999877929688
+Cows,400-520,Processor,D,2,8,1,248.0,258.0,249.25,-7.3,496.0,516.0,498.5,1135.2,1207.8,1198.6900329589844
+Cows,400-520,Restocker,D,1,17,11,224.0,224.0,224,8.7,497.8,497.8,497.8,909.4,909.4,909.4400275735294
+Cows,520+,Processor,D,1,1,-9,236.0,236.0,236,-5.8,524.4,524.4,524.4,1501.0,1501.0,1500.9599609375
+Cows,520+,Processor,D,2,1,-2,296.0,296.0,296,52.7,616.7,616.7,616.7,2042.4,2042.4,2042.4000244140625
+Cows,520+,Processor,D,3,10,5,306.0,330.0,322.8,34.8,566.7,611.1,597.8,1713.6,2260.5,1913.1199829101563

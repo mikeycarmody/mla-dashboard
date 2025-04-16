@@ -1,0 +1,34 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Bombala
+Report Date: 
+Comparison Date: Date not set
+Total Yarding : NQ (NQ)
+Commentary
+DE
+""
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,400+,Processor,D,2,2,NQ,65.0,80.0,72.5,NQ,135.4,160.0,147.7,266.5,540.0,403.25
+Yearling Heifer,400+,Processor,D,3,2,NQ,67.0,79.0,73,NQ,131.4,154.9,143.1,278.0,327.9,302.9499969482422
+Vealer Steer,200-280,Processor,C,3,5,NC,135.5,135.5,135.5,NC,260.6,260.6,260.6,359.1,359.1,359.075
+Vealer Steer,200-280,Restocker,B,2,1,NC,127.5,127.5,127.5,NC,240.6,240.6,240.6,344.3,344.3,344.25
+Vealer Steer,330+,Processor,C,3,6,NC,118.5,118.5,118.5,NC,223.6,223.6,223.6,402.9,402.9,402.8999837239583
+Vealer Heifer,280-330,Processor,C,2,6,NC,133.5,133.5,133.5,NC,251.9,251.9,251.9,393.8,393.8,393.8250325520833
+Vealer Heifer,280-330,Processor,C,3,11,NC,115.5,117.5,116.22727272727273,NC,221.7,222.1,222.0,333.7,340.7,338.17045454545456
+Vealer Heifer,280-330,Processor,C,4,3,NC,138.5,138.5,138.5,NC,261.3,261.3,261.3,457.0,457.0,457.0499674479167
+Manufacturing Steer,540+,Processor,D,2,2,NQ,85.0,85.0,85,NQ,173.5,173.5,173.5,539.8,539.8,539.75
+Grown Steer,400-500,Processor,C,3,12,NC,126.5,126.5,126.5,NC,234.3,234.3,234.3,588.2,588.2,588.2249755859375
+Grown Steer,400-500,Processor,D,3,17,NC,109.5,114.5,112.1470588235294,NC,206.6,212.0,209.5,504.8,546.2,526.6967629825367
+Grown Steer,500-600,Processor,C,3,6,NC,115.0,115.0,115,NC,213.0,213.0,213.0,647.5,647.5,647.4500325520834
+Grown Steer,600-750,Processor,C,4,4,NQ,65.0,110.0,87.5,NQ,120.4,203.7,162.0,416.0,704.0,560
+Grown Heifer,540+,Processor,D,5,1,NQ,80.0,80.0,80,NQ,160.0,160.0,160.0,540.0,540.0,540
+Cows,0-400,Processor,D,1,9,NQ,66.0,73.6,67.66406928168402,NQ,163.6,169.1,167.9,188.0,265.0,205.11111111111111
+Cows,0-400,Processor,D,2,40,NQ,154.7,159.6,156.33038635253905,NQ,322.3,362.7,337.6,350.0,379.0,372
+Cows,0-400,Processor,D,3,22,NQ,74.7,120.8,101.97732682661577,NQ,159.0,251.7,214.1,272.0,330.0,304.1818181818182
+Cows,400-520,Processor,D,2,6,NQ,70.9,70.9,70.93595886230469,NQ,154.2,154.2,154.2,288.0,288.0,288
+Cows,400-520,Processor,D,4,7,NQ,82.4,82.4,82.37704903738839,NQ,161.5,161.5,161.5,402.0,402.0,402

@@ -1,0 +1,30 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Powranna
+Report Date: 25/06/2024
+Comparison Date: 18/06/2024
+Total Yarding: 60 (-78)
+Commentary
+"There was a very small yarding of 60 cattle with more yearlings and less grown steers and cows.
+The trade cattle market was 10c to 15c dearer with steers making 224c to 256c and heifers 190c to 250c. The few grown steers made 220c to 250c while the heavy cows sold from 160c to 188c/kg. Heavy bulls sold for 140c to 164c.
+
+Market Reporter Richard Bailey"
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,330-400,Restocker,C,3,3,NQ,240.0,240.0,240,NQ,428.6,428.6,428.6,828.0,864.0,840
+Yearling Steer,400+,Processor,C,3,4,2,224.0,256.0,236,7.0,400.0,465.5,423.5,1128.0,1153.6,1146.7999877929688
+Yearling Heifer,330-400,Processor,C,3,2,NQ,220.0,238.0,229,NQ,415.1,440.7,427.9,858.0,952.0,905
+Yearling Heifer,400+,Processor,C,3,13,9,220.0,250.0,233.69230769230768,14.7,415.1,463.0,437.0,902.0,1208.4,1045.2615356445312
+Yearling Heifer,400+,Restocker,C,3,1,NQ,190.0,190.0,190,NQ,365.4,365.4,365.4,1045.0,1045.0,1045
+Grown Steer,500-600,Processor,C,3,2,-5,250.0,250.0,250,1.4,446.4,446.4,446.4,1425.0,1450.0,1437.5
+Grown Steer,750+,Processor,C,3,1,-4,220.0,220.0,220,-26.8,392.9,392.9,392.9,1694.0,1694.0,1694
+Grown Heifer,540+,Processor,C,3,2,-2,212.0,238.0,225,-25.0,392.6,440.7,416.7,1208.4,1309.0,1258.7000122070312
+Cows,400-520,Processor,D,2,2,1,130.0,168.0,149,-11.0,260.0,323.1,291.5,572.0,856.8,714.3999938964844
+Cows,400-520,Processor,D,3,1,-1,170.0,170.0,170,-2.0,326.9,326.9,326.9,884.0,884.0,884
+Cows,400-520,Restocker,D,1,1,-28,108.0,108.0,108,63.9,245.5,245.5,245.5,453.6,453.6,453.6000061035156
+Cows,520+,Processor,D,3,14,7,160.0,188.0,180.57142857142858,-6.9,307.7,348.1,338.2,848.0,1504.0,1098.6000191824776
+Bulls,600+,Processor,C,2,3,NC,140.0,164.0,153.33333333333334,13.3,241.4,282.8,264.4,1216.8,1414.0,1325.2000325520833

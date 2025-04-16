@@ -1,0 +1,26 @@
+Data Supplied By: National Livestock Reporting Service
+Data source: National Livestock Reporting Service
+
+Please see terms of use here: https://www.mla.com.au/general/Terms-and-conditions/data-and-information/
+
+Saleyard: Powranna
+Report Date: 02/04/2024
+Comparison Date: 26/03/2024
+Total Yarding: 148 (+93)
+Commentary
+"There was a smaller yarding of 55 trade and grown cattle at Powranna on Tuesday following statewide rains overnight. The quality was very mixed with the best yearling steers making 220c to 234c with leaner down to 180c/kg.
+The best grown steers made 230c while leaner 160c to 210c. There were 25 cows and heavy pens made 160c to 180c and leaner 100c to 120c/kg liveweight.
+
+Market Reporter Richard Bailey"
+
+
+Category,Weight Range,Sale Prefix,Muscle Score,Fat Score,Head Count,Head Change,Min Lwt c/kg,Max Lwt c/kg,Avg Lwt c/kg,Avg Lwt Change,Min Cwt c/kg,Max Cwt c/kg,Avg Cwt c/kg,Min $/Head,Max $/Head,Avg $/Head
+Yearling Steer,400+,Processor,C,3,3,NC,220.0,234.0,228,-9.3,400.0,418.2,412.0,990.0,1263.6,1142.1999918619792
+Yearling Steer,400+,Restocker,C,1,2,NQ,180.0,180.0,180,NQ,360.0,360.0,360.0,729.0,729.0,729
+Grown Steer,400-500,Processor,C,1,2,NQ,160.0,160.0,160,NQ,320.0,320.0,320.0,776.0,776.0,776
+Grown Steer,500-600,Processor,C,1,4,NQ,178.0,178.0,178,NQ,349.0,349.0,349.0,948.7,1005.7,977.2200012207031
+Grown Steer,500-600,Processor,C,2,6,NQ,164.0,210.0,190.33333333333334,NQ,341.7,396.2,372.6,852.8,1134.0,1064.1999816894531
+Grown Steer,600-750,Processor,C,3,2,-3,230.0,230.0,230,20.0,425.9,425.9,425.9,1449.0,1449.0,1449
+Cows,400-520,Restocker,D,1,16,-2,100.0,120.0,115,55.8,238.1,285.7,273.8,470.0,493.2,487.4000244140625
+Cows,520+,Processor,D,3,9,2,160.0,180.0,166.22222222222223,18.2,307.7,333.3,316.8,940.8,1228.2,1062.4444308810764
+Bulls,600+,Processor,C,2,1,-1,140.0,140.0,140,20.0,241.4,241.4,241.4,1162.0,1162.0,1162
