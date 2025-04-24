@@ -13,7 +13,7 @@ from datetime import datetime
 print("🚀 Initialising...")
 download_dir = os.path.abspath("downloads")
 os.makedirs(download_dir, exist_ok=True)
-cutoff_date = datetime.strptime("01/01/2024", "%d/%m/%Y")
+cutoff_date = datetime.strptime("01/01/2025", "%d/%m/%Y")
 log_file = "download_log.csv"
 
 if os.path.exists(log_file):

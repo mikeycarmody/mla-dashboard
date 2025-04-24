@@ -75,6 +75,7 @@ for filename in os.listdir(folder_path):
     keep_cols = [
         "Category", "Weight Range", "Sale Prefix", "Head Count", "Head Change",
         "Min Lwt c/kg", "Max Lwt c/kg", "Avg Lwt c/kg", "Avg Lwt Change",
+        "Min Cwt c/kg", "Max Cwt c/kg", "Avg Cwt c/kg",
         "Min $/Head", "Max $/Head", "Avg $/Head"
     ]
     df = df[[col for col in keep_cols if col in df.columns]].copy()
@@ -86,7 +87,7 @@ for filename in os.listdir(folder_path):
     shutil.move(file_path, os.path.join(history_path, filename))
     print(f"📦 Moved to history: {filename}")
 
-# --- Step 2: Save combined CSV ---
+# --- Step 2: Merge and Save Combined CSV + Excel ---
 if output_rows:
     final_df = pd.concat(output_rows, ignore_index=True)
 
@@ -95,29 +96,39 @@ if output_rows:
         existing = pd.read_excel(output_excel, sheet_name="All Data")
         final_df = pd.concat([existing, final_df], ignore_index=True).drop_duplicates()
 
+    # Merge with existing CSV if it exists and is non-empty
+    if os.path.exists(output_csv):
+        if os.path.getsize(output_csv) > 0:
+            try:
+                prev_df = pd.read_csv(output_csv)
+                final_df = pd.concat([prev_df, final_df], ignore_index=True).drop_duplicates()
+            except pd.errors.EmptyDataError:
+                print(f"⚠️ CSV exists but is empty. Skipping merge.")
+        else:
+            print(f"📂 {output_csv} exists but is empty. Initialising with new data.")
+    else:
+        print(f"📁 {output_csv} does not exist. Will be created now.")
 
-    # Reorder columns if needed
+    # Reorder columns
     col_order = ["Saleyard", "Report Date"] + [col for col in final_df.columns if col not in ("Saleyard", "Report Date")]
     final_df = final_df[col_order]
 
-    # --- Merge with previous combined output if it exists ---
-    if os.path.exists(output_csv):
-        prev_df = pd.read_csv(output_csv)
-        final_df = pd.concat([prev_df, final_df], ignore_index=True).drop_duplicates()
+    # Save combined CSV
     final_df.to_csv(output_csv, index=False)
-    print(f"\n✅ CSV saved: {output_csv}")
+    print(f"\n✅ CSV saved with headers: {output_csv}")
 
     # Convert numeric fields
     numeric_cols = [
         "Head Count", "Head Change",
         "Min Lwt c/kg", "Max Lwt c/kg", "Avg Lwt c/kg", "Avg Lwt Change",
+        "Min Cwt c/kg", "Max Cwt c/kg", "Avg Cwt c/kg",
         "Min $/Head", "Max $/Head", "Avg $/Head"
     ]
     for col in numeric_cols:
         if col in final_df.columns:
             final_df[col] = pd.to_numeric(final_df[col], errors='coerce')
 
-    # --- Step 3: Save Excel with formatting ---
+    # --- Save Excel with formatting ---
     with pd.ExcelWriter(output_excel, engine="xlsxwriter") as writer:
         final_df.to_excel(writer, sheet_name="All Data", index=False)
         workbook = writer.book
