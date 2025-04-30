@@ -232,7 +232,7 @@ st.sidebar.markdown("---")
 
 
 
-tab1, tab2, tab3, tab4 = st.tabs(["📊 Main View", "📈 Charts", "🧩 Grids", "📄 Used Reports"])
+tab1, tab2, tab3 = st.tabs(["📊 Main View", "📈 Charts", "📄 Used Reports"])
 
 with tab1:
     st.header("The Yarding Data")
@@ -274,6 +274,12 @@ with tab1:
             (df["Report Date"] >= comparison_start) &
             (df["Report Date"] <= comparison_end)
         ]
+        
+        # Exclude most recent report per saleyard from the comparison set
+        latest_dates = df_comparison.groupby("Saleyard")["Report Date"].max().reset_index()
+        df_comparison = pd.merge(df_comparison, latest_dates, on=["Saleyard", "Report Date"], how="left", indicator=True)
+        df_comparison = df_comparison[df_comparison["_merge"] == "left_only"].drop(columns=["_merge"])
+
 
         # Match filters (same saleyards etc)
         if saleyards:
@@ -314,18 +320,23 @@ with tab1:
         
         def format_with_change(current, previous, metric):
             try:
-                # Ensure current and previous are floats
-                current_val = float(str(current).replace(",", ""))
-                previous_val = float(str(previous).replace(",", ""))
+                current_val = float(str(current).replace(",", "").replace(" ", ""))
             except:
-                return current  # fallback if conversion fails
+                return current  # fallback
 
-            if previous_val == 0 or pd.isna(previous_val):
+            try:
+                previous_val = float(str(previous).replace(",", "").replace(" ", ""))
+            except:
+                previous_val = None
+
+            # No comparison available
+            if previous_val is None or previous_val == 0 or pd.isna(previous_val):
                 if metric in ["Head Count", "Average LW"]:
                     return f"{current_val:,.0f}"
                 else:
                     return f"{current_val:,.2f}"
-            
+
+            # Comparison available — show change
             pct_change = ((current_val - previous_val) / previous_val) * 100
             arrow = "🟢" if pct_change > 0 else "🔴"
             em_space = " " * 4
@@ -333,6 +344,9 @@ with tab1:
                 return f"{current_val:,.0f}{em_space}{arrow} {abs(pct_change):.1f}%"
             else:
                 return f"{current_val:,.2f}{em_space}{arrow} {abs(pct_change):.1f}%"
+
+            
+
 
 
                 # Convert pivot_comparison to dict for quick lookup
@@ -374,6 +388,27 @@ with tab1:
             with st.expander(f"📍 {yard} — Data"):
                 yard_data = df_filtered[df_filtered["Saleyard"] == yard]
                 yard_pivot = yard_data.groupby("Weight Range").apply(custom_aggregations).reset_index()
+                
+                # Comparison for this saleyard only
+                yard_comparison = df_comparison[df_comparison["Saleyard"] == yard]
+                yard_comparison_pivot = (
+                    yard_comparison.groupby("Weight Range", as_index=False)
+                    .apply(custom_aggregations)
+                    .reset_index(drop=True)
+                )
+
+                yard_comp_dict = yard_comparison_pivot.set_index("Weight Range").to_dict(orient="index")
+
+                # Apply comparison formatting
+                for i, row in yard_pivot.iterrows():
+                    wr = row["Weight Range"]
+                    comp_row = yard_comp_dict.get(wr, {})
+
+                    for metric in ["Head Count", "Average LW", "Average c/kg LW", "Average c/kg CW", "Average $/hd"]:
+                        curr = row[metric]
+                        prev = comp_row.get(metric)
+                        yard_pivot.at[i, metric] = format_with_change(curr, prev, metric)
+
 
                 # --- Add Grand Total Row ---
                 yard_grand = custom_aggregations(yard_data)
@@ -381,12 +416,14 @@ with tab1:
                 yard_pivot = pd.concat([yard_pivot, pd.DataFrame([yard_grand])], ignore_index=True)
 
                 # --- Format Columns Consistently ---
-                yard_pivot["Head Count"] = yard_pivot["Head Count"].apply(lambda x: f"{int(x):,}")
+                yard_pivot["Head Count"] = yard_pivot["Head Count"].apply(str)
+
                 for col in ["Average LW", "Average c/kg LW", "Average c/kg CW", "Average $/hd"]:
-                    yard_pivot[col] = yard_pivot[col].apply(lambda x: f"{x:,.2f}")
+                    yard_pivot[col] = yard_pivot[col].apply(lambda x: f"{float(x):,.2f}" if isinstance(x, (int, float)) else x)
+
 
                 st.dataframe(
-                    pivot,
+                    yard_pivot,
                     use_container_width=True,
                     hide_index=True,
                     column_config={
@@ -398,6 +435,7 @@ with tab1:
                         "Average $/hd": st.column_config.TextColumn(label="Average $/hd")
                     }
                 )
+
 
 
 
@@ -553,16 +591,9 @@ with tab2:
                 st.altair_chart(line_chart, use_container_width=True)    
 
 
+
+
 with tab3:
-    st.subheader("🧩 Grid Placeholder")
-    st.write("This will house structured grids or detailed table views.")
-    st.dataframe(pd.DataFrame({
-        "Column A": ["Row 1", "Row 2", "Row 3"],
-        "Column B": [10, 20, 30]
-    }), use_container_width=True)
-
-
-with tab4:
     # --- Used Saleyard Reports Summary ---
     st.subheader("📄 Saleyard Reports Used")
     used_reports = (
