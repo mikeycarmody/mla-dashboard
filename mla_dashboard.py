@@ -70,7 +70,8 @@ df_filtered = df.copy()
 # --- Apply Date Filters First ---
 if date_mode == "Preset Range":
     preset_option = st.sidebar.selectbox("Preset Date Range", [
-        "Last Sale", "Last 7 Days", "Last 30 Days", "Last 60 Days", "Last 90 Days", "Last 180 Days"
+        #"Last Sale",#
+        "Last 7 Days", "Last 30 Days", "Last 60 Days", "Last 90 Days", "Last 180 Days"
     ])
 
     date_cutoffs = {
@@ -291,7 +292,8 @@ with tab1:
         if prefixes:
             df_comparison = df_comparison[df_comparison["Sale Prefix"].isin(prefixes)]
 
-        pivot_comparison = df_comparison.groupby("Weight Range").apply(custom_aggregations).reset_index()
+        pivot_comparison = df_comparison.groupby("Weight Range", as_index=False).apply(custom_aggregations).reset_index(drop=True)
+
 
 
         # Skip formatting if already formatted
